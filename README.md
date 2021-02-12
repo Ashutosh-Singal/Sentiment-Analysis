@@ -7,4 +7,4 @@ By seeing this we get an idea on the number of tweets, user mentions, URLs, emoj
 The final accuracy after running the various classifiers in different sparse vector representation we get the following result:<br><br>
 <img src="result.PNG"><br>
 
-You can download the dataset from the this [link](https://1drv.ms/u/s!AgeJDlHHfQB6sAmB7j3czmRIAX3r?e=Uqnln0).
+You can download the dataset from this [link](https://1drv.ms/u/s!AgeJDlHHfQB6sAmB7j3czmRIAX3r?e=Uqnln0).
